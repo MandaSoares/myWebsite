@@ -38,7 +38,7 @@ export const ContactSection = () => {
               <Mail className="w-8 h-8" />
               <div>
                 <p className="text-sm opacity-80">EMAIL</p>
-                <p className="text-lg font-medium">amanda_silvasoares@hotmail.com</p>
+                <p className="text-l break-words">amanda_silvasoares@hotmail.com</p>
               </div>
             </div>
 
@@ -86,7 +86,7 @@ export const ContactSection = () => {
             <div className="text-6xl lg:text-8xl font-luckiest text-mustard-300 thank-you-1">
               Thank
             </div>
-            <div className="text-6xl lg:text-8xl font-luckiest text-mustard-300 thank-you-2 -mt-4">
+            <div className="text-6xl lg:text-8xl font-luckiest text-mustard-300 thank-you-2 -mt-1">
               You
             </div>
           </div>
