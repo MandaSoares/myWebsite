@@ -96,8 +96,7 @@ export const ExperienceSection = () => {
 
   const handleCVClick = () => {
     window.open(
-      'https://docs.google.com/document/d/1wgBJ03zZ7FGN36TZ5iaRbCEFvNXWjDkmmmIduvvUnyQ/edit?usp=sharing',
-      '_blank'
+      'https://docs.google.com/document/d/e/2PACX-1vRrCBZcPK87hAFRL3x-5JoFKV3iq_WeIpqJM3-X6syYz7kxtk5Jkb75qLDTutjfa6LUwPLgXPlLRvCq/pub'
     );
   };
 
